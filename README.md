@@ -1,5 +1,4 @@
-# Brain-Weight-Prediction
-Brain Weight Prediction on Head-Brain Data
+# Brain Weight Prediction on Head-Brain Data
 This project demonstrates a machine learning model that predicts brain weight based on head measurements, using the Head-Brain dataset. The dataset consists of observations that include attributes such as head size and brain weight, and the goal is to establish a linear relationship between them.
 
 Project Overview
